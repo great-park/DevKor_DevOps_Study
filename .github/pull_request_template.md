@@ -20,3 +20,5 @@ Please delete options that are not relevant.
 * Needs more than 10 minutes? (o/x)
 
 ### Images
+![image](https://user-images.githubusercontent.com/83508073/160232941-885cec25-6b48-46c0-990e-cf4738a134a0.png)
+각 항목별 세부사항은 자유롭게 수정하여 활용
