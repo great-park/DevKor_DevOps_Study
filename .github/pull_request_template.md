@@ -1,4 +1,4 @@
-## 개요
+## Summary
 
 * fix (이슈 번호)
 
@@ -13,11 +13,13 @@ Please delete options that are not relevant.
 
 ## 작업사항
 
-### How to review?
+## Test
 
-### Extra info
+## How to review?
+
+## Extra info
 
 * Needs more than 10 minutes? (o/x)
 
-### Images
+## Images
 
